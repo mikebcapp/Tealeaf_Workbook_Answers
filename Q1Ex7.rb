@@ -1,0 +1,2 @@
+# Had no idea of this question.  Googled eval but it didnt help me understand the answer.  Otehr answers had good explanation
+# but this had none, even though tis a method that I don't recall being discussed at ll int he book.
